@@ -63,3 +63,5 @@ Example of Interaction
     
     Is Python here?
     The word 'Python' is not in the text
+
+"This project was completed as part of the Python TOTAL - Programador Avanzado on Udemy."
