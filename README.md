@@ -29,7 +29,7 @@ Usage
 
       Bash
     
-      python analizador_texto.py
+      python TextAnalyzr.py
 
 - Follow the on-screen instructions to enter your text and the three letters you want to analyze.
 
